@@ -1,0 +1,32 @@
+<sitemapindex>
+	<sitemap>
+		<loc>local.drupaluniversity.edu.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/about.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/departments.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/courses.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/degrees.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/campus-locations.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/contact.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/students.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/faculty.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>local.drupaluniversity.edu/news.xml</loc>
+	</sitemap>
+</sitemapindex>
